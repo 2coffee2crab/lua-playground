@@ -12,3 +12,5 @@ devenv.lock
 .envrc
 devenv.nix
 devenv.yaml
+
+.idea
